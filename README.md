@@ -78,7 +78,7 @@ We employed several pre-trained Sentence Transformer models to conduct the evalu
 ![Pairplot](images/Pairplot.png)
 
 # Conclusion
-![Comparison](images/TopsisComparison)
+![Comparison](images/TopsisComparison.png)
 
 
 
